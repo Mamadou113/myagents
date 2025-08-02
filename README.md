@@ -50,14 +50,6 @@ contains-studio-agents/
 │   ├── mobile-app-builder.md
 │   ├── rapid-prototyper.md
 │   └── test-writer-fixer.md
-├── marketing/
-│   ├── app-store-optimizer.md
-│   ├── content-creator.md
-│   ├── growth-hacker.md
-│   ├── instagram-curator.md
-│   ├── reddit-community-builder.md
-│   ├── tiktok-strategist.md
-│   └── twitter-engager.md
 ├── product/
 │   ├── feedback-synthesizer.md
 │   ├── sprint-prioritizer.md
@@ -66,21 +58,12 @@ contains-studio-agents/
 │   ├── experiment-tracker.md
 │   ├── project-shipper.md
 │   └── studio-producer.md
-├── studio-operations/
-│   ├── analytics-reporter.md
-│   ├── finance-tracker.md
-│   ├── infrastructure-maintainer.md
-│   ├── legal-compliance-checker.md
-│   └── support-responder.md
-├── testing/
-│   ├── api-tester.md
-│   ├── performance-benchmarker.md
-│   ├── test-results-analyzer.md
-│   ├── tool-evaluator.md
-│   └── workflow-optimizer.md
-└── bonus/
-    ├── joker.md
-    └── studio-coach.md
+└── testing/
+    ├── api-tester.md
+    ├── performance-benchmarker.md
+    ├── test-results-analyzer.md
+    ├── tool-evaluator.md
+    └── workflow-optimizer.md
 ```
 
 ## 📋 Complete Agent List
